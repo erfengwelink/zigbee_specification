@@ -21,4 +21,6 @@ https://www.silabs.com/community/wireless/zigbee-and-thread/knowledge-base.entry
 ## EFR32无线通信模块AN310——Zigbee(利用Host升级NCP固件):
 https://www.sekorm.com/news/84602495.html
 
+
+## boot & app firmwares合并
 commander.exe convert custom-bootloader-uart-xmodem-combined.s37 app.hex -o combined\app_combined.hex
